@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+boiling-kata/boiling-kata.layout
+boiling-kata/boiling-kata.depend
+boiling-kata/boiling-kata.cbp
